@@ -1,10 +1,10 @@
 <<<<<<< HEAD
 <?php
 $host = null;
-$socket = "/cloudsql/webautocomplete-182600:us-central1:giwac-sql-large"; /* Host name */
+$socket = "/cloudsql/python-codelab-193117:us-central1:gac2"; /* Host name */
 $user = "root"; /* User */
-$password = "warfield"; /* Password */
-$dbname = "giwacdb"; /* Database name */
+$password = "w2t$R"; /* Password */
+$dbname = "gac2"; /* Database name */
 //connect with the database
 $db = mysqli_connect($host, $user, $password, $dbname, $port, $socket);
 if (!$db) {

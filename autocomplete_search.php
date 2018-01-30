@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 <?php
 $host = null;
-$socket = "/cloudsql/webautocomplete-182600:us-central1:giwac-sql-large"; /* Host name */
+$socket = "/cloudsql/python-codelab-193117:us-central1:gac2"; /* Host name */
 $user = "root"; /* User */
-$password = "warfield"; /* Password */
+$password = "w2t$R"; /* Password */
 $dbname = "giwacdb"; /* Database name */
 
 $searchTerm = $_GET['term']; 	//get search term
